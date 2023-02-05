@@ -9,7 +9,7 @@ export default function (Vue, { router, head, isClient }) {
     Vue.mixin({
         data () {
             return {
-                GRIDSOME_API_URL: process.env.GRIDSOME_API_URL
+                GRIDSOME_API_URL: 'http://47.96.24.44:1337'
                 // GRIDSOME_API_URL: 'http://localhost:1337'
             }
         }
