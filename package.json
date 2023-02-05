@@ -14,8 +14,5 @@
     "bootstrap": "^4.5.3",
     "gridsome": "^0.7.0",
     "markdown-it": "^12.0.2"
-  },
-  "engines": {
-    "node": "16.16.0"
   }
 }
